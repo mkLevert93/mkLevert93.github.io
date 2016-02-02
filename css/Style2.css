@@ -1,1 +1,14 @@
 
+
+.imgCent > img {
+    text-align: center;
+    max-width:100%;
+    height:35vh;
+    width:35vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+
+}
